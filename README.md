@@ -1,1 +1,1 @@
-# TensorRT4MNIST-Demo
+# TensorRT-Demo
